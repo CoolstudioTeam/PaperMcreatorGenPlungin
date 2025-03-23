@@ -1,0 +1,7 @@
+name: CommandCreatorPlugin
+version: 1.0
+main: com.yourpluginname.Main
+commands:
+  commandcreate:
+    description: Opens the Command Creator UI in MCreator
+    usage: /commandcreate
